@@ -1,0 +1,5 @@
+export const CounterActions = {
+  INCREASE: "INCREASE",
+  DECREASE: "DECREASE",
+  INCREASEBYVALUE: "INCREASEBYVALUE",
+};
